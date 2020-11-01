@@ -9,8 +9,8 @@
     <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
   </ItemGroup>
 	<ItemGroup>
-		<EmbeddedResource Include="bin/Debug/netcoreapp3.1/messages.txt"></EmbeddedResource>
-		<EmbeddedResource Include="bin/Debug/netcoreapp3.1/text1.txt"></EmbeddedResource>
+		<EmbeddedResource Include="bin\Debug\netcoreapp3.1\messages.txt"></EmbeddedResource>
+		<EmbeddedResource Include="bin\Debug\netcoreapp3.1\text.txt"></EmbeddedResource>
 	</ItemGroup>
 
 </Project>
